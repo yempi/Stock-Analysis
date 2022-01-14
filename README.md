@@ -37,8 +37,14 @@ After refactoring the original code the runtimes are as follows:
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/83614893/149452777-235e0a6b-be38-44a3-94b3-5f82ec698781.png)
 >Images 5 and 6. Refactored Run Time (2017, 2018 respectively)
 
+```
+From the original snippet of code the runtime was between 0.73-0.74, after the refactoring it ended between 
+0.74-0.75. We can see the 2017 stock analysis increasing the run time with a difference of 0.02 and the 2018 
+one staying exactly the same. 
 
+```
 
 ## Summary
   1. What are the advantages or disadvantages of refactoring code?
-  2. How do these pros and cons apply to refactoring the original VBA script?
+ As an advantage I see that it looks cleaner and organized, so it can be helpful for future 
+  3. How do these pros and cons apply to refactoring the original VBA script?
